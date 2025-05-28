@@ -7,4 +7,4 @@
 
 import Foundation
 
-q10172()
+exampleOfBfsRun()
