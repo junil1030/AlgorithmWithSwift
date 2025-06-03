@@ -7,4 +7,6 @@
 
 import Foundation
 
-exampleOfBfsRun()
+combiTest()
+print("----")
+permutTest()
