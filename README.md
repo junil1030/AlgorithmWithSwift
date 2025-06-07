@@ -41,3 +41,5 @@
 |:-----:|:------------------------------------------------------------:|:----------------------------------------:|
 | 2739  | [구구단](https://www.acmicpc.net/problem/2793)                 | [Link](https://github.com/junil1030/AlgorithmWithSwift/blob/main/AlgorithmWithSwift/BAEKJOON/반복문/2739.swift) |
 | 10950 | [A + B - 3](https://www.acmicpc.net/problem/10950)           | [Link](https://github.com/junil1030/AlgorithmWithSwift/blob/main/AlgorithmWithSwift/BAEKJOON/반복문/10950.swift) |
+| 8393  | [A + B - 3](https://www.acmicpc.net/problem/8393)           | [Link](https://github.com/junil1030/AlgorithmWithSwift/blob/main/AlgorithmWithSwift/BAEKJOON/반복문/8393.swift) |
+| 25304 | [A + B - 3](https://www.acmicpc.net/problem/25304)           | [Link](https://github.com/junil1030/AlgorithmWithSwift/blob/main/AlgorithmWithSwift/BAEKJOON/반복문/25304.swift) |
