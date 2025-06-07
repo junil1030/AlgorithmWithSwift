@@ -7,6 +7,4 @@
 
 import Foundation
 
-combiTest()
-print("----")
-permutTest()
+q25304()
