@@ -43,3 +43,7 @@
 | 10950 | [A + B - 3](https://www.acmicpc.net/problem/10950)           | [Link](https://github.com/junil1030/AlgorithmWithSwift/blob/main/AlgorithmWithSwift/BAEKJOON/반복문/10950.swift) |
 | 8393  | [합](https://www.acmicpc.net/problem/8393)           | [Link](https://github.com/junil1030/AlgorithmWithSwift/blob/main/AlgorithmWithSwift/BAEKJOON/반복문/8393.swift) |
 | 25304 | [영수증](https://www.acmicpc.net/problem/25304)           | [Link](https://github.com/junil1030/AlgorithmWithSwift/blob/main/AlgorithmWithSwift/BAEKJOON/반복문/25304.swift) |
+| 25314 | [영수증](https://www.acmicpc.net/problem/25314)           | [Link](https://github.com/junil1030/AlgorithmWithSwift/blob/main/AlgorithmWithSwift/BAEKJOON/반복문/25314.swift) |
+| 15552 | [영수증](https://www.acmicpc.net/problem/15552)           | [Link](https://github.com/junil1030/AlgorithmWithSwift/blob/main/AlgorithmWithSwift/BAEKJOON/반복문/15552.swift) |
+| 11021 | [영수증](https://www.acmicpc.net/problem/11021)           | [Link](https://github.com/junil1030/AlgorithmWithSwift/blob/main/AlgorithmWithSwift/BAEKJOON/반복문/11021.swift) |
+| 11022 | [영수증](https://www.acmicpc.net/problem/11022)           | [Link](https://github.com/junil1030/AlgorithmWithSwift/blob/main/AlgorithmWithSwift/BAEKJOON/반복문/11022.swift) |
