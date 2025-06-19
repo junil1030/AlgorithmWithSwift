@@ -47,3 +47,16 @@
 | 15552 | [빠른 A+B](https://www.acmicpc.net/problem/15552)           | [Link](https://github.com/junil1030/AlgorithmWithSwift/blob/main/AlgorithmWithSwift/BAEKJOON/반복문/15552.swift) |
 | 11021 | [A+B - 7](https://www.acmicpc.net/problem/11021)           | [Link](https://github.com/junil1030/AlgorithmWithSwift/blob/main/AlgorithmWithSwift/BAEKJOON/반복문/11021.swift) |
 | 11022 | [A+B - 8](https://www.acmicpc.net/problem/11022)           | [Link](https://github.com/junil1030/AlgorithmWithSwift/blob/main/AlgorithmWithSwift/BAEKJOON/반복문/11022.swift) |
+| 2438 | [별 찍기 - 1](https://www.acmicpc.net/problem/2438)           | [Link](https://github.com/junil1030/AlgorithmWithSwift/blob/main/AlgorithmWithSwift/BAEKJOON/반복문/2438.swift) |
+| 2439 | [별 찍기 - 2](https://www.acmicpc.net/problem/2439)           | [Link](https://github.com/junil1030/AlgorithmWithSwift/blob/main/AlgorithmWithSwift/BAEKJOON/반복문/2439.swift) |
+| 10952 | [A+B - 5](https://www.acmicpc.net/problem/10952)           | [Link](https://github.com/junil1030/AlgorithmWithSwift/blob/main/AlgorithmWithSwift/BAEKJOON/반복문/10952.swift) |
+| 10951 | [A+B - 4](https://www.acmicpc.net/problem/10951)           | [Link](https://github.com/junil1030/AlgorithmWithSwift/blob/main/AlgorithmWithSwift/BAEKJOON/반복문/10951.swift) |
+
+### 4단계 1차원배열
+
+| Round | Title                                                        | Link                                     |
+|:-----:|:------------------------------------------------------------:|:----------------------------------------:|
+| 10807  | [개수 세기](https://www.acmicpc.net/problem/10807)                 | [Link](https://github.com/junil1030/AlgorithmWithSwift/blob/main/AlgorithmWithSwift/BAEKJOON/1차원배열/10807.swift) |
+| 10871 | [X보다 작은 수](https://www.acmicpc.net/problem/10871)           | [Link](https://github.com/junil1030/AlgorithmWithSwift/blob/main/AlgorithmWithSwift/BAEKJOON/1차원배열/10871.swift) |
+| 10818  | [최소, 최대](https://www.acmicpc.net/problem/10818)           | [Link](https://github.com/junil1030/AlgorithmWithSwift/blob/main/AlgorithmWithSwift/BAEKJOON/1차원배열/10818.swift) |
+| 2562 | [최댓값](https://www.acmicpc.net/problem/2562)           | [Link](https://github.com/junil1030/AlgorithmWithSwift/blob/main/AlgorithmWithSwift/BAEKJOON/1차원배열/2562.swift) |
