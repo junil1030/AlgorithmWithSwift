@@ -7,4 +7,4 @@
 
 import Foundation
 
-q2438()
+print(Q9([30, 10, 23, 6, 100]))
