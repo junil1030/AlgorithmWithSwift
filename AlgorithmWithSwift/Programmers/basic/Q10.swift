@@ -23,3 +23,10 @@ func Q10(_ score: [[Int]]) -> [Int] {
 }
 
 // Double로 하지 않고 int로 할 경우, 2와 2.5 식별이 불가능 함.
+
+func Q10_1(_ score: [[Int]]) -> [Int] {
+    let score = score.map { Double(($0[0] + $0[1])) / 2 }
+    return score.map { value in
+        score.filter { $0 > value }.count + 1
+    }
+}

@@ -29,4 +29,9 @@ func Q9(_ emergency:[Int]) -> [Int] {
 // [30, 23, 100].count + 1 = 4
 // 네번째임
 
+func Q9_1(_ emergency:[Int]) -> [Int] {
+    return emergency.map { value in
+        emergency.filter { $0 > value }.count + 1
+    }
+}
 

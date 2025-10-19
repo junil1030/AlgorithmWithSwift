@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(Q9([30, 10, 23, 6, 100]))
+print(Q13_1("abdc"))
