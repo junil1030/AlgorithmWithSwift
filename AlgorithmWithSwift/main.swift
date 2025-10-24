@@ -7,4 +7,6 @@
 
 import Foundation
 
-print(Q13_1("abdc"))
+print(Q23([1, 2, 3, 4, 5, 6, 7, 8], 2))
+
+String
