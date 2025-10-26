@@ -7,6 +7,4 @@
 
 import Foundation
 
-print(Q23([1, 2, 3, 4, 5, 6, 7, 8], 2))
-
-String
+print(Q30("3x + 7 + x"))

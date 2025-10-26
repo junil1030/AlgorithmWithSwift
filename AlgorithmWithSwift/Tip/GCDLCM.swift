@@ -15,6 +15,10 @@ func GCD(_ min: Int, _ max: Int) -> Int {
     return GCD(max, res)
 }
 
+func GCD_2(_ a: Int, _ b: Int) -> Int {
+    return b == 0 ? a : GCD_2(b, a % b)
+}
+
 func LCM(_ a: Int, _ b: Int) -> Int {
     return (a * b) / GCD(a, b)
 }
