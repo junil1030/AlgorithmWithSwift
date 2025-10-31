@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(Q30("3x + 7 + x"))
+print(Q36("aaaa", "bb", 2))
