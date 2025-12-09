@@ -15,4 +15,4 @@ import Foundation
 //print(input[19])
 
 //print(q11721("BaekjoonOnlineJudge"))
-print(q3273())
+print(q10026())
