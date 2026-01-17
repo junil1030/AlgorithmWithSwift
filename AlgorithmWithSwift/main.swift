@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(q20006())
+print(q6198())
