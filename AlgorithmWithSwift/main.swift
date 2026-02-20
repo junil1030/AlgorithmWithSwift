@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(q6198())
+print(이상한문자만들기("  TRy HElLo  WORLD "))
