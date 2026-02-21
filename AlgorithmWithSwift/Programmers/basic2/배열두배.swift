@@ -1,8 +1,8 @@
 //
-//  배열두배.swift
+//  배열두배.swift
 //  AlgorithmWithSwift
 //
-//  Created by 서준일 on 2/8/26.
+//  Created by 서준일 on 2/21/26.
 //
 
 import Foundation
